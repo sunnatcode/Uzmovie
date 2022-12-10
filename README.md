@@ -1,2 +1,3 @@
 # Uzmovie
-I create this api for movies and series website
+I created this api project for movies and series website.
+I mostly used Token based authentication and viewsets
